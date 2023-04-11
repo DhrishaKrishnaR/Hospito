@@ -1,0 +1,40 @@
+.body12{
+    background :no-repeat url("https://t3.ftcdn.net/jpg/02/35/13/34/360_F_235133400_ZwaHUzKb3xCmR1DyQZQ5RE4uMJTeuHHK.jpg");
+    background-size:cover;
+    font-size: 25px;
+
+}
+.login
+{
+        background-color:gray;
+        border:none;
+        color: black;
+        padding-right: 3px;
+        padding-left: 3px;
+        font-size: 20px;
+}
+.img{
+    position:fixed;
+    top: 50px;
+    left: 600px;
+}
+
+input[type=password]
+{
+    width:30%;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-left: 40px;
+    box-sizing: border-box;
+    border:2px solid black;
+    
+}
+input[type=Name]
+{
+    width:50%;
+    border-radius: 10px;
+    margin-left: 20px;
+    box-sizing: border-box;
+    border:2px solid black;
+    
+}

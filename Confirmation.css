@@ -1,0 +1,29 @@
+.Confirmation {
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+    
+  table {
+    border: 2px solid black;
+    width: 500px;
+    height: 200px;
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+    text-align: center;
+  }
+    
+  td {
+    text-align: center;
+  }
+  .body10{
+    background-color:rgb(183, 211, 235);
+    background-size: cover;
+  }
+  .tab
+  {
+    padding-left: 33%;
+  }

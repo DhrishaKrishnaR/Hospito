@@ -1,0 +1,12 @@
+.body2{
+    background: no-repeat url("https://nordicclinic.se/wp-content/themes/yootheme/cache/iStock-1165053717-e1594729972880-7ccf360c.jpeg");
+    background-size: cover;
+}
+.about
+{
+    background-color: grey;
+    border:none;
+    color: black;
+    padding:8px 36px;
+    font-size: 20px;
+}

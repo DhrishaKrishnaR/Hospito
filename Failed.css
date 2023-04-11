@@ -1,0 +1,16 @@
+.body11
+{
+    background :no-repeat  url("https://i.pinimg.com/originals/4f/a8/65/4fa865673318d7b9d7088fbb137a518c.jpg");
+    background-size:cover;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+.failed
+{
+    background-color: grey;
+    border:none;
+    color: black;
+    padding:8px 36px;
+    font-size: 20px;
+}

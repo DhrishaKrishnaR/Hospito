@@ -1,0 +1,29 @@
+.body7{
+    background :no-repeat url("https://www.sfimedical.com/wp-content/uploads/2021/11/Hospital-Room-2.jpeg");
+    background-size:cover;
+    font-size: 25px;
+    text-align: center;
+}
+.hr{
+    position:absolute;
+    left:635px;
+    
+}
+
+.button
+{
+    color:black;
+    background-color:white;
+    padding: 10px;
+    font-size: 20px;
+}
+input[type=text]
+{
+    width:20%;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 40px;
+    box-sizing: border-box;
+    border:2px solid #8aa6e0;
+    
+}

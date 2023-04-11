@@ -1,0 +1,14 @@
+.body1
+{ 
+    background :no-repeat  url("https://t4.ftcdn.net/jpg/05/09/64/57/360_F_509645796_9uUVlOrM8VJYF3rJ5QrSUQ4XjcV5rXKF.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    font-style: italic;
+    color:white;
+    font-size: 35px;
+    font-family: 'Inika';
+    padding-top: 50px;
+}
+.button[type=submit]{
+    color: white;
+}

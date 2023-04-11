@@ -1,0 +1,32 @@
+.body5{
+    background:no-repeat  url("https://c1.wallpaperflare.com/preview/396/832/846/hospital-ward-hospital-medical-room-operation-accommodation.jpg");
+    background-size: cover;
+}
+.des{
+    color:black
+}
+button[type=submit]
+{
+    background-image: linear-gradient(rgb(46, 46, 252),rgb(28, 176, 255));
+    border: 50px;
+    color: whitesmoke;
+    padding:8px 36px;
+    font-size: 30px;
+}
+.opt{
+    background-color: grey;
+    border:none;
+    color: black;
+    padding:8px 36px;
+    font-size: 30px;
+
+}
+.fillup
+{
+    background-color:gray;
+        border:none;
+        color: black;
+        padding-right: 3px;
+        padding-left: 3px;
+        font-size: 20px;
+}
